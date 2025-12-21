@@ -19,8 +19,10 @@ This project provides a full-scale analytical pipeline for a nationwide marketin
     - `Report_02`: Marketing Funnel (CPE & Engagement %).
     - `Report_03-06`: Strategic Optimizers and Executive Summaries.
     - `Apex_Horizon_ROI_Map.png`: Nationwide performance heatmap.
+    - `Strategic Memo.pdf`: finalized version of the memo with specific results.
 
 ## 🛠️ Technology Stack
 - **Python (Pandas, NumPy):** Data manipulation and financial logic.
 - **GeoPandas & Pyogrio:** Spatial data processing.
+
 - **Matplotlib:** Corporate-grade data visualization.
