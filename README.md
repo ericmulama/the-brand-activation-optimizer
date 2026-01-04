@@ -26,3 +26,7 @@ This project provides a full-scale analytical pipeline for a nationwide marketin
 - **GeoPandas & Pyogrio:** Spatial data processing.
 
 - **Matplotlib:** Corporate-grade data visualization.
+
+## Data Provenance
+While this project uses simulated data for privacy reasons, the structure is designed to mimic real-world exports from SAP ERP systems and OCHA HDX geospatial repositories, ensuring the pipeline is production-ready.
+
